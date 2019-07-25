@@ -4,5 +4,5 @@
 
 > Protocol to dynamically generate UIs for IoT devices
 
-[GitHub](https://github.com/aidengaripoli/dynamic-device-display)
+[GitHub](https://github.com/TylerSteane/dynamic-device-display)
 [Get Started](/README)
