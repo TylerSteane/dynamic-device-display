@@ -16,7 +16,7 @@ An Android library implementation of Tyler Steane's Display and Control protocol
 
 ## Getting Started
 
-Check out the [Quick Start](https://aidengaripoli.github.io/dynamic-device-display/#/quick-start) documentation to get started.
+Check out the [Quick Start](https://tylersteane.github.io/dynamic-device-display/#/quick-start) documentation to get started.
 
 ## Credits
 - [Aiden Garipoli](https://github.com/aidengaripoli) - Creator / Maintainer
